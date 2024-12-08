@@ -1,0 +1,30 @@
+[
+    {
+      "id": 0,
+      "image": "./image/e-commerce.jpg",
+      "name": "Ecommerce Product Page",
+      "description":
+        "An interactive e-commerce platform offering a seamless shopping experience, featuring product galleries, detailed descriptions, and secure checkout. Perfect for browsing and purchasing a variety of goods with ease"
+    },
+    {
+      "id": 1,
+      "image": "./image/desktop-preview.jpg",
+      "name": "Crowdfunding",
+      "description":
+      "A dynamic crowdfunding platform designed to help creators and entrepreneurs raise funds for their projects. Supporters can browse campaigns, contribute easily, and track project milestones in real-time.m!"
+    },
+    {
+      "id": 2,
+      "image": "./image/desktop-design-step-1.jpg",
+      "name": "Multi-step Form",
+      "description":
+        "A user-friendly multi-step form website that guides users through a seamless, step-by-step process to complete complex forms. Each stage ensures clarity and ease, improving form submission and user experience."
+    },
+    {
+        "id": 2,
+        "image": "./image/dropdown.jpg",
+        "name": "Menu Drop-Down",
+        "description":
+          "A sleek menu drop-down website offering intuitive navigation with organized, collapsible menus. Perfect for enhancing user experience, allowing quick access to multiple sections with a clean and minimal design."
+      }
+  ]
